@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gibson
 # DevOps Engineer, Cloud Infrastructure Engineer & Solutions Architect
-- 🌱 I’m currently learning devOps practices on aws
+- 🌱 I’m currently learning devOps practices on aws and getting ready for my CKA exam
 <!--
 **goekezie/goekezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
